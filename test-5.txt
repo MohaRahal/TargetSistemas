@@ -1,0 +1,1 @@
+primeiramente eu deixo dois interruptores ligados por algum tempo , depois eu desligo um interrutor , e vou ate uma das salas , caso ela esteja acessa , eu sei que é o interruptor A , caso ela estaja desligada porém "fria" , eu sei que é a lampada C , pois nao liguei o interruptor dela , entao no final a ultima so pode ser a lampada B.
